@@ -35,7 +35,7 @@ A feature-rich blog platform built with Laravel 10, Tailwind CSS, and the TALL s
 
 | Blog Homepage | Post Detail Page | Admin Dashboard |
 | :---: | :---: |:---:|
-| *[Your-Homepage-Screenshot.png]* | *[Your-Post-Screenshot.png]* | *[Your-Admin-Panel-Screenshot.png]* |
+| ![Blog Homepage](./screenshots/Home-page.png) | ![Post Detail Page](./screenshots/Post-create.png) | ![Admin Dashboard](./screenshots/Admin-Panel.png) |
 
 
 
